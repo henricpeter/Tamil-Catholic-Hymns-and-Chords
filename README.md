@@ -1,0 +1,1 @@
+This is  a dedicated space for Chords for the Tamil Catholic Hymns. It's an initiative to create a repository for church musicians. Contributors are most welcome for correction as well as for new submissions.
